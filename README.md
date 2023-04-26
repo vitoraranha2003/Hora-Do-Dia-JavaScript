@@ -1,1 +1,1 @@
-# Hora-do-Dia-JavaScript
+Esse programa calcula o horário de acordo com o sistema do seu computador e mostrando-o em horas e minutos. As imagens do programa e o fundo também mudam de acordo com o turno(manhã,tarde,noite). Feito em HTML, CSS e JavaScript
