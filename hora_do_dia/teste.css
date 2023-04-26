@@ -1,0 +1,17 @@
+
+section{background-color: white;
+border-radius: 15px;
+padding: 20px;
+color: black;
+width: 500px;
+height: 300px;
+margin:auto;
+}
+body{background-color: blue
+font-family:Courier;
+color: white;
+text-align: center;}
+
+footer{font-style: italic;}
+
+div{padding: 10px;}
